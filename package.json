@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "electron": "^2.0.2",
-    "handlebars": "^4.0.5"
+    "handlebars": "^4.6.0"
   },
   "build": {
     "app-bundle-id": "tidycustoms",
