@@ -1,0 +1,30 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - archiver > lodash:
+        patched: '2020-04-30T23:54:35.501Z'
+    - '@google-cloud/storage > async > lodash':
+        patched: '2020-04-30T23:54:35.501Z'
+    - archiver > archiver-utils > lodash:
+        patched: '2020-04-30T23:54:35.501Z'
+    - archiver > async > lodash:
+        patched: '2020-04-30T23:54:35.501Z'
+    - archiver > zip-stream > lodash:
+        patched: '2020-04-30T23:54:35.501Z'
+    - aws-sdk > xmlbuilder > lodash:
+        patched: '2020-04-30T23:54:35.501Z'
+    - archiver > zip-stream > archiver-utils > lodash:
+        patched: '2020-04-30T23:54:35.501Z'
+    - aws-sdk > xml2js > xmlbuilder > lodash:
+        patched: '2020-04-30T23:54:35.501Z'
+    - '@google-cloud/storage > @google-cloud/common > google-auto-auth > async > lodash':
+        patched: '2020-04-30T23:54:35.501Z'
+    - '@google-cloud/storage > gcs-resumable-upload > google-auto-auth > async > lodash':
+        patched: '2020-04-30T23:54:35.501Z'
+    - '@google-cloud/storage > @google-cloud/common > split-array-stream > async > lodash':
+        patched: '2020-04-30T23:54:35.501Z'
+    - jimp > load-bmfont > parse-bmfont-xml > xml2js > xmlbuilder > lodash:
+        patched: '2020-04-30T23:54:35.501Z'
