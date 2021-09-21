@@ -52,7 +52,7 @@
     "shuffle-array": "^1.0.1",
     "slug": "^0.9.1",
     "sqlstring": "^2.2.0",
-    "ssh2-sftp-client": "^1.0.5",
+    "ssh2-sftp-client": "^7.0.0",
     "tar": "^2.2.1",
     "transliteration": "^1.6.2",
     "unzipper": "^0.3.1",
