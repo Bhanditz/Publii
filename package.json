@@ -50,7 +50,7 @@
     "webpack-dashboard": "^1.0.2"
   },
   "dependencies": {
-    "electron": "^2.0.2",
+    "electron": "^12.2.1",
     "handlebars": "^4.0.5"
   },
   "build": {
