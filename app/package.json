@@ -38,7 +38,7 @@
     "image-downloader": "^3.3.0",
     "image-size": "^0.5.0",
     "isbinaryfile": "^3.0.2",
-    "jimp": "^0.2.27",
+    "jimp": "^0.3.7",
     "keytar": "^3.0.2",
     "ls-all": "^1.1.0",
     "md5": "^2.1.0",
